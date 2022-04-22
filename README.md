@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Micah Bowles 🇬🇧 / 🇩🇪
+- 👋 Hi, I’m Micah! 🇨🇦 / 🇩🇪
 - 🌱 I’m always looking to grow and learn.
 - 🤔 I'm researching robustness in deep learning, and the intersection of big data and radio astronomy.
 - 🗣️ Always up for a good conversation.
