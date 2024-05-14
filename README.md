@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Micah!
-- 🤔 I am a researcher working on AIxAstro (AI for science), representation learning, and language modelling in science.
-- 🌱 I am interseted in representation learning, equivariance, explainability, large models and more.
-- :mortar_board: Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ)!
-- 📫 Email me at micah.bowles (at) postgrad.manchester.ac.uk
+- 👋 Hi, I’m Micah a Schmidt AI in Science Postdoctoral Fellow at the University of Oxford.
+- 🌱 I am researching various aspects of large neural networks in astronomy.
+- 🤔 I think about representation learning, pre-training, inductive biases, explainability, large language models and more.
+- :mortar_board: See my [Google Scholar](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ)!
+- 📫 Email me at micah.bowles (at) physics.ox.ac.uk
 - 👉 More details on my [personal website](https://mb010.github.io/)!
 
 <!---
