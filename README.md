@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Micah a Schmidt AI in Science Postdoctoral Fellow at the University of Oxford.
-- 🌱 I am researching various aspects of large neural networks in astronomy.
+- 👋 Hi, I’m Micah a Schmidt AI in Science Fellow at the University of Oxford.
+- 🌱 I am working on pre-training and vision language models for science.
 - 🤔 I think about representation learning, pre-training, inductive biases, explainability, large language models and more.
 - :mortar_board: See my [Google Scholar](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ)!
 - 📫 Email me at micah.bowles (at) physics.ox.ac.uk
